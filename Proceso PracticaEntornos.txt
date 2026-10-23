@@ -1,0 +1,13 @@
+Proceso PracticaEntornos
+
+    //programa básico en pseudocódigo
+
+    Definir nombreUsuario como Caracter;
+
+    Escribir "Hola mundo";
+
+    Escribir "Por favor, introduce tu nombre";
+    Leer nombreUsuario;
+
+FinProceso
+
