@@ -3,6 +3,7 @@ Proceso PracticaEntornos
     //programa básico en pseudocódigo
 
     Definir nombreUsuario, apellidoUsuario como Caracter;
+    Definir edad como Entero;
 
     Escribir "Hola mundo";
 
@@ -12,6 +13,9 @@ Proceso PracticaEntornos
     Leer apellidoUsuario;
 
     Escribir "¡Buenas ", nombreUsuario, " ", apellidoUsuario, "!";
+
+    Escribir "Introduce tu edad";
+    Leer edad;
 
 FinProceso
 
