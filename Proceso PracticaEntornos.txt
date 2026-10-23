@@ -1,6 +1,6 @@
 Proceso PracticaEntornos
 
-    //programa básico en pseudocódigo
+    //programa básico en pseudocódigo prueba conflicto main
 
     Definir nombreUsuario, apellidoUsuario como Caracter;
     Definir edad como Entero;
