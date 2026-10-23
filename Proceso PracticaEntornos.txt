@@ -2,14 +2,16 @@ Proceso PracticaEntornos
 
     //programa básico en pseudocódigo
 
-    Definir nombreUsuario como Caracter;
+    Definir nombreUsuario, apellidoUsuario como Caracter;
 
     Escribir "Hola mundo";
 
     Escribir "Por favor, introduce tu nombre";
     Leer nombreUsuario;
+    Escribir "Por favor, introduce tu apellido";
+    Leer apellidoUsuario;
 
-    Escribir "¡Buenas ", nombreUsuario, "!";
+    Escribir "¡Buenas ", nombreUsuario, " ", apellidoUsuario, "!";
 
 FinProceso
 
