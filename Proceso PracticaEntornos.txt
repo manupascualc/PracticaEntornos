@@ -9,5 +9,7 @@ Proceso PracticaEntornos
     Escribir "Por favor, introduce tu nombre";
     Leer nombreUsuario;
 
+    Escribir "¡Buenas ", nombreUsuario, "!";
+
 FinProceso
 
