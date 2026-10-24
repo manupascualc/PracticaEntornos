@@ -2,7 +2,7 @@ Proceso PracticaEntornos
 
     //programa básico en pseudocódigo prueba conflicto main
 
-    Definir nombreUsuario, apellidoUsuario como Caracter;
+    Definir nombreUsuario, apellidoUsuario, ciudadUsuario como Caracter;
     Definir edad como Entero;
 
     Escribir "Hola mundo";
@@ -16,6 +16,9 @@ Proceso PracticaEntornos
 
     Escribir "Introduce tu edad";
     Leer edad;
+
+    Escribir "Introduce tu ciudad:";
+    Leer ciudadUsuario;
 
 FinProceso
 
